@@ -1,2 +1,2 @@
 # Fullstack
-Fullstack kurssin harjoitustehtävien palautukset
+Fullstack kurssin osa0 harjoitustehtävien palautukset
